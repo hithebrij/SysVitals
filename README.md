@@ -1,4 +1,4 @@
-🖥️ SysVitals – Automated Server Health Dashboard
+# 🖥️ SysVitals – Automated Server Health Dashboard
 
 **SysVitals** is a powerful yet lightweight Bash script that gives you real-time insights into your server’s health. It’s designed for Linux system administrators who want clean system status reporting without setting up complex monitoring tools like Zabbix, Prometheus, or Nagios.
 
